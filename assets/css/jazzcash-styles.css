@@ -1,0 +1,24 @@
+.wc_payment_method.payment_method_jazzcash .form-row {
+    padding: 15px;
+    background: #f8f8f8;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+.wc_payment_method.payment_method_jazzcash label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.wc_payment_method.payment_method_jazzcash input.input-text {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+.wc_payment_method.payment_method_jazzcash .description {
+    font-size: 0.85em;
+    color: #666;
+    display: block;
+    margin-bottom: 10px;
+}
